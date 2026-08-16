@@ -1,16 +1,36 @@
-## Hi there 👋
+# ¡Hola! Soy [Tu Nombre] 👋
 
-<!--
-**cjaime-dev/cjaime-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desarrollador de Software | Backend & Cloud**
 
-Here are some ideas to get you started:
+Me especializo en la construcción de sistemas robustos, la gestión de infraestructura y la integración de soluciones de inteligencia artificial para optimizar procesos. Siempre busco escribir código limpio, escalable y eficiente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Stack Tecnológico y Herramientas
+
+Aquí tienes las tecnologías con las que trabajo en mi día a día:
+
+*   **Lenguajes & Frameworks:** PHP, Laravel, Java
+*   **Infraestructura & Cloud:** Amazon S3, Azure, Hostinger, Laragon
+*   **Herramientas & IA:** GitHub, Sentry, Integraciones con Claude y Google AI
+
+### 🔭 ¿En qué estoy trabajando?
+
+*   Actualmente desarrollando y escalando aplicaciones web usando **Laravel** y arquitecturas en la nube.
+*   Explorando y aplicando soluciones de **Inteligencia Artificial** (Claude Pro, Google AI Pro) para potenciar flujos de trabajo.
+*   Manteniendo proyectos personales y despliegues en `[Tu Dominio Personal o Proyecto]`.
+
+### 📈 Mis Estadísticas en GitHub
+
+<!-- Nota: Reemplaza "TU_USUARIO" con tu nombre de usuario real de GitHub en las URLs de abajo -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" alt="Lenguajes más usados" />
+</div>
+
+### 📫 ¿Cómo contactarme?
+
+*   💼 **LinkedIn:** [Enlace a tu LinkedIn]
+*   📧 **Email:** [Tu correo electrónico]
+*   🌐 **Portafolio / Web:** [Enlace a tu sitio web, ej: apps-acs.online]
+
+---
+⭐️ *De desarrollador para desarrolladores.*
