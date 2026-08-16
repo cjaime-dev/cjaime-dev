@@ -16,7 +16,7 @@ Aquí tienes las tecnologías con las que trabajo en mi día a día:
 
 *   Actualmente desarrollando y escalando aplicaciones web usando **Laravel** y arquitecturas en la nube.
 *   Explorando y aplicando soluciones de **Inteligencia Artificial** (Claude Pro, Google AI Pro) para potenciar flujos de trabajo.
-*   Manteniendo proyectos personales y despliegues en [https://gcr-aegis.on-forge.com].
+*   Manteniendo proyectos personales y despliegues en https://gcr-aegis.on-forge.com.
 
 ### 📫 ¿Cómo contactarme?
 
