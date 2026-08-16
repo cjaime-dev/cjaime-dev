@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy Carlos Jaime👋
 
 **Desarrollador de Software | Backend & Cloud**
 
@@ -20,9 +20,9 @@ Aquí tienes las tecnologías con las que trabajo en mi día a día:
 
 ### 📫 ¿Cómo contactarme?
 
-*   💼 **LinkedIn:** [https://www.linkedin.com/in/cjaime-dev91/]
-*   📧 **Email:** [cjaime.dev91@gmail.com]
-*   🌐 **Portafolio / Web:** [https://cjaime-dev.github.io]
+*   💼 **LinkedIn:** https://www.linkedin.com/in/cjaime-dev91/
+*   📧 **Email:** cjaime.dev91@gmail.com
+*   🌐 **Portafolio / Web:** https://cjaime-dev.github.io
 
 ---
 ⭐️ *De desarrollador para desarrolladores.*
