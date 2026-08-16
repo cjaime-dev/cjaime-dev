@@ -16,21 +16,13 @@ Aquí tienes las tecnologías con las que trabajo en mi día a día:
 
 *   Actualmente desarrollando y escalando aplicaciones web usando **Laravel** y arquitecturas en la nube.
 *   Explorando y aplicando soluciones de **Inteligencia Artificial** (Claude Pro, Google AI Pro) para potenciar flujos de trabajo.
-*   Manteniendo proyectos personales y despliegues en `[Tu Dominio Personal o Proyecto]`.
-
-### 📈 Mis Estadísticas en GitHub
-
-<!-- Nota: Reemplaza "TU_USUARIO" con tu nombre de usuario real de GitHub en las URLs de abajo -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</div>
+*   Manteniendo proyectos personales y despliegues en [https://gcr-aegis.on-forge.com].
 
 ### 📫 ¿Cómo contactarme?
 
-*   💼 **LinkedIn:** [Enlace a tu LinkedIn]
-*   📧 **Email:** [Tu correo electrónico]
-*   🌐 **Portafolio / Web:** [Enlace a tu sitio web, ej: apps-acs.online]
+*   💼 **LinkedIn:** [https://www.linkedin.com/in/cjaime-dev91/]
+*   📧 **Email:** [cjaime.dev91@gmail.com]
+*   🌐 **Portafolio / Web:** [https://cjaime-dev.github.io]
 
 ---
 ⭐️ *De desarrollador para desarrolladores.*
