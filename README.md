@@ -24,7 +24,6 @@ Me especializo en la construcción de sistemas robustos, la gestión de infraest
 
 🔗 Demo
 
-
 **Tipo:** Empresa
 - **URL:** [grc-aegis.on-forge.com/login/agencia_de_aduanas_gla](https://grc-aegis.on-forge.com/login/agencia_de_aduanas_gla)
 - **Usuario:** analista@gla-aduanas.com
