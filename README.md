@@ -18,7 +18,7 @@ Me especializo en la construcción de sistemas robustos, la gestión de infraest
 
 ### 🚀 Proyecto destacado
 
-**[GRC-Aegis](https://github.com/IngenieriaSastra/grc-aegis)** — Plataforma de Gestión de Riesgos, Controles y Cumplimiento (GRC), pensada para cualquier tipo de empresa. Reemplaza las hojas de cálculo manuales por un sistema centralizado de identificación, evaluación y monitoreo de riesgos.
+**GRC-Aegis** — Plataforma de Gestión de Riesgos, Controles y Cumplimiento (GRC), pensada para cualquier tipo de empresa. Reemplaza las hojas de cálculo manuales por un sistema centralizado de identificación, evaluación y monitoreo de riesgos.
 
 `Laravel 12` `React 19 + TypeScript` `Inertia.js` `PostgreSQL` `Tailwind CSS v4`
 
